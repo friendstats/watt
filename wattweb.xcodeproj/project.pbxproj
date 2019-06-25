@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2239185C22BD0FAE00E6E0DF /* main.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = main.html; sourceTree = "<group>"; };
+		2239185D22BD10B900E6E0DF /* product1.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = product1.html; sourceTree = "<group>"; };
+		2239185E22BD17BF00E6E0DF /* lodash.min.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = lodash.min.js; sourceTree = "<group>"; };
+		2239185F22BD198000E6E0DF /* unified-viewer.bundle.min.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "unified-viewer.bundle.min.js"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2239185522BD0F9400E6E0DF = {
+			isa = PBXGroup;
+			children = (
+				2239185C22BD0FAE00E6E0DF /* main.html */,
+				2239185D22BD10B900E6E0DF /* product1.html */,
+				2239185E22BD17BF00E6E0DF /* lodash.min.js */,
+				2239185F22BD198000E6E0DF /* unified-viewer.bundle.min.js */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2239185622BD0F9400E6E0DF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1020;
+			};
+			buildConfigurationList = 2239185922BD0F9400E6E0DF /* Build configuration list for PBXProject "wattweb" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2239185522BD0F9400E6E0DF;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2239185A22BD0F9400E6E0DF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		2239185B22BD0F9400E6E0DF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2239185922BD0F9400E6E0DF /* Build configuration list for PBXProject "wattweb" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2239185A22BD0F9400E6E0DF /* Debug */,
+				2239185B22BD0F9400E6E0DF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2239185622BD0F9400E6E0DF /* Project object */;
+}
